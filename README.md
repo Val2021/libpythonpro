@@ -7,6 +7,11 @@ Nesse curso é ensinado como contribuir com projeto de código aberto
  
  [![Build Status](https://travis-ci.org/Val2021/libpythonpro.svg?branch=master)](https://travis-ci.org/Val2021/libpythonpro)
  
+ [![Updates](https://pyup.io/repos/github/Val2021/libpythonpro/shield.svg)](https://pyup.io/repos/github/Val2021/libpythonpro/)
+ 
+ [![Python 3](https://pyup.io/repos/github/Val2021/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/Val2021/libpythonpro/)
+
+
  Suportada versao 3 de Python
  
  Para instalar:
