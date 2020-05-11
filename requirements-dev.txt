@@ -1,4 +1,4 @@
-appdirs==1.4.3
+appdirs==1.4.4
 certifi==2019.11.28
 chardet==3.0.4
 distlib==0.3.0
