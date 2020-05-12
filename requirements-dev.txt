@@ -1,4 +1,4 @@
-appdirs==1.4.3
+appdirs==1.4.4
 certifi==2020.4.5.1
 chardet==3.0.4
 distlib==0.3.0
@@ -9,11 +9,11 @@ idna==2.9
 mccabe==0.6.1
 pipenv==2018.11.26
 pycodestyle==2.6.0
-pyflakes==2.1.1
+pyflakes==2.2.0
 
 # Deps do Pytest
 py==1.8.1
-more-itertools==4.0.0
+more-itertools==8.2.0
 attrs==19.3.0
 pluggy=1.0,
 requests==2.23.0
