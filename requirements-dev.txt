@@ -21,5 +21,8 @@ six==1.14.0
 urllib3==1.25.9
 virtualenv==20.0.20
 virtualenv-clone==0.5.4
+#Coverage
+coverage==5.1
+pytest-cov==2.8.1
 -r requirements.txt
 
