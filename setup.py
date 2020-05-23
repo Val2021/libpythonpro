@@ -103,7 +103,7 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro-Val"
+PACKAGE = "libpythonpro_Val"
 NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Val Araújo"
